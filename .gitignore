@@ -1,1 +1,4 @@
 *.pyc
+
+# add pycharm setup:
+.idea
